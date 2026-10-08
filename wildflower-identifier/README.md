@@ -2,6 +2,7 @@
 
 Program which generates a series of questions and identifies which flower it could be
 
+```md
 ## How to run
-'''bash
+```bash
 python wildflower_identifier.py
