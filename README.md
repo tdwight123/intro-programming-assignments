@@ -2,7 +2,7 @@
 
 A collection of coursework projects from CS 1210 at UVM
 
-## Projects
+## Assignments
 1. Element Lookup - Choose to lookup an element by name or atomic number
 2. Decision Tree - Answer a series of yes or no questions and returns which flower it is
 3. Number to digits - Give a number from 1 digit to 3 digits and returns each number in a list
