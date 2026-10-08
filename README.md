@@ -1,4 +1,4 @@
-# into-programming-assignments
+# intro-programming-assignments
 
 A collection of coursework projects from CS 1210 at UVM
 
