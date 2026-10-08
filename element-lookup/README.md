@@ -2,6 +2,7 @@
 
 Returns either the element name or atomic number
 
-# How to run 
-'''bash
-python element_lookup.py
+```md
+## How to run
+```bash
+python grade_calculator.py
